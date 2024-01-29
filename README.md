@@ -3,7 +3,7 @@
 
 <h4>Here all professional projects I've worked on :</h4>
 
-- 🔭 [Artshowcase](https://artshowcase.fr/)
+- 🔭 **Artshowcase**, a selling platform for artists
 
 - 👯 **Weber Animation store**, a marketing campaign generator
 
@@ -15,7 +15,7 @@
 
 - ✅ **An iPad attendance survey app** for **Galderma**
 
-- 🍼  **A presentation software for** **Filorga**
+- 🍼 A presentation software for **Filorga**
 
 - 📰 **A learning app** for **AIG**
 
