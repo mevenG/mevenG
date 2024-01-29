@@ -23,7 +23,7 @@
 
 - 🔴 [Retout.fr](https://retout.fr/)'s animated circle menu
 
-- 🔧 **BattleBit's community modules** BackEnd
+- 🔧 **BattleBit's community modules** BackEnd & **BattleBit's official troubleshooting docs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> reach me at **mevenguegan@gmail.com**
