@@ -26,7 +26,7 @@
 - 🔧 **BattleBit's community modules** BackEnd & **BattleBit's official troubleshooting docs**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> reach me at **mevenguegan@gmail.com**
+<p align="left"> reach me at gueganmeven [at] gmail.com
 </p>
 
 [![Editor - VScode](https://img.shields.io/badge/Editor-VScode-3ba4ea?logo=visual-studio-code)](https://code.visualstudio.com/)
