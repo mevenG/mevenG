@@ -9,6 +9,8 @@
 
 - 🤝 **Weber Store check**, an app for weber's employees to check for reseller's booth conformity
 
+- 💻 **Darty & Electrolux**, a marketing game for washing machines and dryers
+
 - 🔥 **Weber BBQ Party**, an easy game to apply for a lottery
 
 - 🚗 **qashqai booth app** for **Nissan** at **Geneva Show 2017**
